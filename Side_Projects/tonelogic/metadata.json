@@ -1,0 +1,7 @@
+{
+  "name": "ToneLogic",
+  "description": "A translation layer for color harmony, converting abstract concepts into mathematical values for web design and wardrobe coordination.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Morph - Polymorphic Converter",
+  "description": "A sleek, context-aware file converter interface that intelligently suggests target formats based on input file types.",
+  "requestFramePermissions": []
+}
